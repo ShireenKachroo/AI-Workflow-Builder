@@ -1,0 +1,19 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+# Virtual environment
+venv/
+# Environment variables
+.env
+# Logs
+logs/
+*.log
+# VS Code
+.vscode/settings.json
+# Testing
+.pytest_cache/
+.coverage
+# Ruff
+.ruff_cache/
+# Windows
+Thumbs.db
